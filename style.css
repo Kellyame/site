@@ -134,7 +134,8 @@ section{
 
 .banner{
     min-height: 80vh;
-    background:url("./img/Home.png") no-repeat;
+    background:url("./img/Home.png") no-repeat;    background:url("https://i.imgur.com/vxSFaC2.png") no-repeat;
+
     background-size: cover;
     background-position: center;
     display: grid;
